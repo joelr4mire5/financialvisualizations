@@ -1,0 +1,14 @@
+body {
+    background-color: #f8f9fa;
+}
+.navbar-brand {
+    font-weight: bold;
+    font-size: 24px;
+}
+.card {
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+h2 {
+    color: #333;
+}
